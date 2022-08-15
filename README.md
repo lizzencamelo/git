@@ -1,4 +1,5 @@
-# lessons-in-git
+# git
+## LESSONS IN GIT
 
 ### Cloning Github repository
 i. Copy repository link from Code menu of Github repository to be cloned (*remote repository*).   
