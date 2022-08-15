@@ -5,8 +5,7 @@
 [Updating remote repository](https://github.com/lizzencamelo/git-learning/edit/main/README.md#updating-remote-repository)  
 [Updating local repository](https://github.com/lizzencamelo/git-learning/edit/main/README.md#updating-local-repository)  
 [User Configuration](https://github.com/lizzencamelo/git-learning/edit/main/README.md#user-configuration)  
-[Browser Sync](https://github.com/lizzencamelo/git-learning/edit/main/README.md#browser-sync)
-
+ 
 ### Cloning Github repository
 i. Copy repository link from Code menu of Github repository to be cloned (*remote repository*).   
 ii. Open command prompt/terminal on local.  
@@ -64,13 +63,4 @@ ii. Enter command **git pull** to update your local repository branch with all n
 
             D:\localrepositorydirectory\repo> git config --global user.email "name@email"
          
-### Browser sync
-> Keep multiple browsers & devices in sync when building websites.
-> Reflects changes in code on localhost in real time.
-         
-i. Open command prompt.  
-
-            D:\localrepositorydirectory\repo> browser-sync start --server --directory --files "**/*"
-            
-ii. ```Ctrl + C``` to exit browser-sync connection.
   
