@@ -41,7 +41,7 @@ v. Enter command **git push** to publish all local commits to GitHub
                   D:\localrepositorydirectory\repo> git push
         
 ### Updating local repository
-i. On making changes to remote repository, we must pull the changes to local repository.
+i. On making changes to remote repository, we must pull the changes to local repository.  
 ii. Enter command **git pull** to update your local repository branch with all new commits from remote branch on GitHub. 
 
                   D:\localrepositorydirectory\repo> git pull
