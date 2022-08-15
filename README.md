@@ -1,5 +1,11 @@
 # git
 ## LESSONS IN GIT
+[Cloning Github repository](https://github.com/lizzencamelo/git-learning/edit/main/README.md#cloning-github-repository)  
+[Opening VSCode project from local repository directory](https://github.com/lizzencamelo/git-learning/edit/main/README.md#opening-vscode-project-from-local-repository-directory)  
+[Updating remote repository](https://github.com/lizzencamelo/git-learning/edit/main/README.md#updating-remote-repository)  
+[Updating local repository](https://github.com/lizzencamelo/git-learning/edit/main/README.md#updating-local-repository)  
+[User Configuration](https://github.com/lizzencamelo/git-learning/edit/main/README.md#user-configuration)  
+[Browser Syn]()
 
 ### Cloning Github repository
 i. Copy repository link from Code menu of Github repository to be cloned (*remote repository*).   
@@ -10,7 +16,7 @@ iii. Move to local directory where repository is to be cloned (*local repository
                 D:\localrepositorydirectory> 
      
     
-iv. Enter command **git clone [url]**
+iv. Enter command **git clone [url]**.
 
 
                 D:\localrepositorydirectory> git clone https://github.com/user/repo.git
@@ -36,7 +42,7 @@ iv. Enter command **git commit -m "[update message]"** to commit changes to loca
 
                   D:\localrepositorydirectory\repo> git commit -m "UPDATE REPO"
 
-v. Enter command **git push** to publish all local commits to GitHub
+v. Enter command **git push** to publish all local commits to GitHub.
 
                   D:\localrepositorydirectory\repo> git push
         
@@ -47,16 +53,24 @@ ii. Enter command **git pull** to update your local repository branch with all n
                   D:\localrepositorydirectory\repo> git pull
                   
 ### User Configuration 
-i. To configure user information for all local repositories   
+> To configure user information for all local repositories.   
 
-**git config --global user.name "[name]"** to set the name attached to commit transactions
+**git config --global user.name "[name]"** to set the name attached to commit transactions.
 
             D:\localrepositorydirectory\repo> git config --global user.name "my name"   
             
             
-**git config --global user.email "[email address]"** to set the email attached to commit transactions
+**git config --global user.email "[email address]"** to set the email attached to commit transactions.
 
             D:\localrepositorydirectory\repo> git config --global user.email "name@email"
          
+### Browser syn
+> Keep multiple browsers & devices in sync when building websites.
+> Reflects changes in code on localhost in real time.
          
-         
+i. Open command prompt.  
+
+            D:\localrepositorydirectory\repo> browser-sync start --server --directory --files "**/*"
+            
+ii. ```Ctrl + C``` to exit browser-sync connection.
+  
