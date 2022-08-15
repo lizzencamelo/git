@@ -46,3 +46,17 @@ ii. Enter command **git pull** to update your local repository branch with all n
 
                   D:\localrepositorydirectory\repo> git pull
                   
+### User Configuration 
+i. To configure user information for all local repositories   
+
+**git config --global user.name "[name]"** to set the name attached to commit transactions
+
+            D:\localrepositorydirectory\repo> git config --global user.name "my name"   
+            
+            
+**git config --global user.email "[email address]"** to set the email attached to commit transactions
+
+            D:\localrepositorydirectory\repo> git config --global user.email "name@email"
+         
+         
+         
