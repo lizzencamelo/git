@@ -1,10 +1,10 @@
 # git
 ## LESSONS IN GIT
-[Cloning Github repository](https://github.com/lizzencamelo/git-learning/edit/main/README.md#cloning-github-repository)  
-[Opening VSCode project from local repository directory](https://github.com/lizzencamelo/git-learning/edit/main/README.md#opening-vscode-project-from-local-repository-directory)  
-[Updating remote repository](https://github.com/lizzencamelo/git-learning/edit/main/README.md#updating-remote-repository)  
-[Updating local repository](https://github.com/lizzencamelo/git-learning/edit/main/README.md#updating-local-repository)  
-[User Configuration](https://github.com/lizzencamelo/git-learning/edit/main/README.md#user-configuration)  
+[Cloning Github repository](https://github.com/lizzencamelo/git#cloning-github-repository)  
+[Opening VSCode project from local repository directory](https://github.com/lizzencamelo/git#opening-vscode-project-from-local-repository-directory)  
+[Updating remote repository](https://github.com/lizzencamelo/git#updating-remote-repository)  
+[Updating local repository](https://github.com/lizzencamelo/git#updating-local-repository)  
+[User Configuration](https://github.com/lizzencamelo/git#user-configuration)  
  
 ### Cloning Github repository
 i. Copy repository link from Code menu of Github repository to be cloned (*remote repository*).   
